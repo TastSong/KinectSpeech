@@ -4,8 +4,8 @@ KinectSpeech
 环境配置
 -----------------------------
 
-* [Kinect驱动](https://www.microsoft.com/en-us/download/details.aspx?id=44561 "下载")  安装，不要改变路径，如果以前安装过，就不要安装，但是以前安装的时候，改变过安装路径，就从控制面板卸载后，再次安装。
-* Microsoft语音包安装，以此双击安装，不要改变安装路径。
+* [Kinect驱动](https://www.microsoft.com/en-us/download/details.aspx?id=44561 "下载")安装，不要改变路径，如果以前安装过，就不要安装，但是以前安装的时候，改变过安装路径，就从控制面板卸载后，再次安装。
+* Microsoft语音包安装，在Kinect的驱动里有语音包的下载地址，不要改变安装路径。
 
 程序使用方法
 ----------------------------
