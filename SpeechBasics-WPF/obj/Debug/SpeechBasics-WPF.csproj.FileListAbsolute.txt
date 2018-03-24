@@ -1,0 +1,14 @@
+C:\Users\10071\Desktop\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe.config
+C:\Users\10071\Desktop\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.exe
+C:\Users\10071\Desktop\SpeechBasics-WPF\bin\AnyCPU\Debug\SpeechBasics-WPF.pdb
+C:\Users\10071\Desktop\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\10071\Desktop\SpeechBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\10071\Desktop\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\10071\Desktop\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\10071\Desktop\SpeechBasics-WPF\obj\Debug\App.g.cs
+C:\Users\10071\Desktop\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\10071\Desktop\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\10071\Desktop\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\10071\Desktop\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\10071\Desktop\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\10071\Desktop\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
